@@ -1,0 +1,34 @@
+_repo: Manuel-da-Maya-e-os-engenheiros-militares-portugueses-no-Terramoto-de-1755_18982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sepúlveda, Christóvam Ayres de Magalhães
+    aliases:
+    - Sepulveda, Cristovao Aires de Magalhaes
+    - Sepulveda, Christovam Ayres de Magalhaes
+    - Sepúlveda, Cristovão Aires de Magalhães
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '8386'
+    url: http://www.gutenberg.org/2009/agents/8386
+description: ''
+gutenberg_bookshelf:
+- PT Ciência e Técnica
+- PT História
+gutenberg_issued: '2006-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18982'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Lisbon Earthquake, Portugal, 1755'
+- !lcsh 'Maia, Manuel da, -1768'
+title: Manuel da Maya e os engenheiros militares portugueses no Terramoto de 1755
+url: http://www.gutenberg.org/ebooks/18982
